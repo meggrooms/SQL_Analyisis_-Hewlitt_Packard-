@@ -51,13 +51,17 @@ ORDER BY title DESC;
 
 SELECT * FROM unique_titles;
 
+-- First, retrieve the number of titles from the Unique Titles table.
+-- Then, create a Retiring Titles table to hold the required information.
+-- Group the table by title, then sort the count column in descending order.
 
+SELECT COUNT(ut.title)
+INTO retiring_titles
+FROM unique_titles AS ut
+GROUP BY ut.title
+ORDEr BY COUNT(ut.title) DESC;
 
-
-
-
-
-
+SELECT * FROM retiring_titles
 
 
 
