@@ -25,8 +25,12 @@ CREATE TABLE IF NOT EXISTS titles(
 SELECT * FROM titles;
 
 
+
+
 -- Deliverable 1, create retirement tables
 
+
+-- DROP TABLE retirement_table
 SELECT e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 INTO retirement_table
 FROM employees AS e
@@ -38,8 +42,9 @@ ORDER BY emp_no;
 SELECT * FROM retirement_table
 
 
-----Retrieve the employee number, first and last name, title columns from the Retirement Titles
--- from UNique Titles table
+
+----Retrieve the employee number, first and last name, title columns from the Retirement Titles from Unique Titles table
+-- DROP TABLE unique_titles
 
 SELECT e.emp_no, e.first_name, e.last_name, t.title
 INTO unique_titles
@@ -51,9 +56,11 @@ ORDER BY title DESC;
 
 SELECT * FROM unique_titles;
 
--- First, retrieve the number of titles from the Unique Titles table.
--- Then, create a Retiring Titles table to hold the required information.
--- Group the table by title, then sort the count column in descending order.
+
+-- Retrieve the number of titles from the Unique Titles table.
+-- Create a Retiring Titles table to hold the required information.
+-- Group the table by title, Sort the count column in descending order.
+-- DELETE TABLE retiring_titles
 
 SELECT COUNT(ut.title)
 INTO retiring_titles
@@ -62,6 +69,9 @@ GROUP BY ut.title
 ORDEr BY COUNT(ut.title) DESC;
 
 SELECT * FROM retiring_titles
+
+
+-- Deliverable 2
 
 
 
