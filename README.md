@@ -36,7 +36,7 @@ To begin the analysis Bobby created an ERD (Entity Relationship Diagram) using Q
 • The total of retirement-eligible employees is 72,458. There are six departments and all will be impacted, with 50,000 being senior staff expected to leave. The impact of the mass departure has the potential to be catastrophic. It's vital that PH prepares their bench by developing current employees to fill these rolls.
 <BR>
   
-<img align="center" width="300" height="300" src="https://github.com/meggrooms/Pewlett-Hackard-Analysis/blob/main/Images/number_retiring_department.png">
+<img src="https://homeschoolgameschool.com/wp-content/uploads/2023/01/number_retiring_department.png">
   
 <BR>
 • Knowing the exact roles that need to be filled is essential so we put together a list of the future retirees alongside their titles. Quite a few employees were duplicates, so we had to clean the date to reflect current titles.
