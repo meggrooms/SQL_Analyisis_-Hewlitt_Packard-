@@ -29,7 +29,7 @@ I utilized the following tools in my analysis:
 To begin the analysis Bobby created an ERD (Entity Relationship Diagram) using Quick Database Diagrams to sort employees into specific tables, allowing us to visually manipulate the data. He used the ERD to lead the conversaion and organization of employee records. Here are his findings.
 
   
-<center><img width="=400" height="400" src="https://github.com/meggrooms/Pewlett-Hackard-Analysis/blob/main/Images/EmployeeDB.png"></center>
+<center><img src="https://homeschoolgameschool.com/wp-content/uploads/2023/01/EmployeeDB.png"></center>
 <BR>
 <BR>
   
