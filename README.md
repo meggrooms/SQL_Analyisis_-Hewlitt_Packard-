@@ -50,7 +50,7 @@ To begin the analysis Bobby created an ERD (Entity Relationship Diagram) using Q
    • There are 1,549 current employees who are eligible to be mentors, all born in 1966.
    <BR>
    
-<img width=600 height=400 src="https://github.com/meggrooms/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png"> 
+<img width=600 height=400 src="https://homeschoolgameschool.com/wp-content/uploads/2023/01/mentorship_eligibilty.png"> 
 <BR>
 <BR>
   
