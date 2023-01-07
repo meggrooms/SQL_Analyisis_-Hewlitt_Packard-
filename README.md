@@ -42,7 +42,7 @@ To begin the analysis Bobby created an ERD (Entity Relationship Diagram) using Q
 • Knowing the exact roles that need to be filled is essential so we put together a list of the future retirees alongside their titles. Quite a few employees were duplicates, so we had to clean the date to reflect current titles.
 <BR>
   <BR>
-<img width="600" height="400" src="https://github.com/meggrooms/Pewlett-Hackard-Analysis/blob/main/Images/rolls_to_be_filled.png">
+<img src = "https://homeschoolgameschool.com/wp-content/uploads/2023/01/rolls_to_be_filled.png">
  <BR><BR>
   
 • A mentorship program could be the answer to this problem. Developing a strong bench is essential to the future success of the company. The following image provides a small glimpse of the people we found who make good candidates for the mentoring program.
@@ -50,7 +50,7 @@ To begin the analysis Bobby created an ERD (Entity Relationship Diagram) using Q
    • There are 1,549 current employees who are eligible to be mentors, all born in 1966.
    <BR>
    
-<img width="600" height="400" src="https://github.com/meggrooms/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png"> 
+<img width=600 height=400 src="https://github.com/meggrooms/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibilty.png"> 
 <BR>
 <BR>
   
